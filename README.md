@@ -26,7 +26,7 @@
   Entering login admin point (important)
   using this email and pass login into project please
   ``` 
-  email : pradeep@gmail.com
+  email : ajeet@gmail.com
   password : 123
   ```
   
